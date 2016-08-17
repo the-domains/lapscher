@@ -1,0 +1,28 @@
+name: Lapscher
+favicon: null
+layout_spectrum: 0.8428040044382215
+typography_spectrum: 0.9966728787403554
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9814657033421099
+  lightness: 0.00829281797632575
+  saturation: 0.6580012086778879
+  rhythmicContrast: 0.5529987632762641
+purpose: []
